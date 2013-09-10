@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">xkcd reader</string>
+    <string name="random">Random</string>
+    <string name="share">Share</string>
+    <string name="favorites">Favorites</string>
+    <string name="noFavorites">No Favorites.</string>
+    <string name="jump_to">Jump to…</string>
+    <string name="pic_number">Pick a Comic (1-%d)</string>
+    <string name="no_network_connection">No Network Connection</string>
+    <string name="retry">Retry</string>
+    <string name="openInBrowser">Open in Browser</string>
+    <string name="load_error">Can\'t load content</string>
+    <string name="explain">Explain Wiki</string>
+
+</resources>

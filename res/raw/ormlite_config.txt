@@ -1,0 +1,36 @@
+#
+# generated on 2013/02/05 12:09:02
+#
+# --table-start--
+dataClass=hu.sianis.xkcd.ComicItem
+tableName=comics
+# --table-fields-start--
+# --field-start--
+fieldName=num
+id=true
+# --field-end--
+# --field-start--
+fieldName=year
+# --field-end--
+# --field-start--
+fieldName=month
+# --field-end--
+# --field-start--
+fieldName=day
+# --field-end--
+# --field-start--
+fieldName=title
+# --field-end--
+# --field-start--
+fieldName=link
+# --field-end--
+# --field-start--
+fieldName=alt
+# --field-end--
+# --field-start--
+fieldName=starred
+defaultValue=false
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################

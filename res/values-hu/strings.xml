@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">xkcd reader</string>
+    <string name="random">Véletlen</string>
+    <string name="share">Megosztás</string>
+    <string name="favorites">Kedvencek</string>
+    <string name="noFavorites">Nincsenek kedvencek.</string>
+    <string name="jump_to">Ugrás…</string>
+    <string name="pic_number">Válassz egy rajzot (1-%d)</string>
+    <string name="no_network_connection">Nincs hálózati kapcsolat</string>
+    <string name="retry">Újra?</string>
+    <string name="openInBrowser">Megnyitás böngészőben</string>
+    <string name="load_error">Nem tölthető be</string>
+    <string name="explain">Explain Wiki</string>
+
+</resources>
